@@ -1,0 +1,4 @@
+## Kagura - Simple website builder
+
+
+1. Save markdown files to pages/ folder. This folder is the source folder for all markdown files.
